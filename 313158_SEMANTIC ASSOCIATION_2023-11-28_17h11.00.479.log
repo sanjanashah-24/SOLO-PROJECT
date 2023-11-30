@@ -1,0 +1,386 @@
+5.5576 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+6.1757 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001CABCF1AF10>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001CABCF1AEB0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001CABCF1ABB0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001CAC39272B0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=8, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.1759 	EXP 	window1: mouseVisible = True
+6.1759 	EXP 	window1: backgroundImage = ''
+6.1759 	EXP 	window1: backgroundFit = 'none'
+6.1765 	EXP 	window1: mouseVisible = False
+6.1765 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.1765 	EXP 	window1: recordFrameIntervals = False
+6.3410 	EXP 	window1: recordFrameIntervals = True
+6.5250 	EXP 	Screen (0) actual frame rate measured at 59.88Hz
+6.5251 	EXP 	window1: recordFrameIntervals = False
+7.9773 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='"The cat saw the mouse in the corner"', units='height', win=Window(...), wrapWidth=1)
+7.9828 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='"The bank was closed for renovation."', units='height', win=Window(...), wrapWidth=1)
+7.9863 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text="'The plane flew over the bank.'", units='height', win=Window(...), wrapWidth=1)
+7.9900 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text="'Computer'\n", units='height', win=Window(...), wrapWidth=1)
+8.0314 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text="'Money'\n", units='height', win=Window(...), wrapWidth=1)
+8.0523 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Plane\n', units='height', win=Window(...), wrapWidth=1)
+8.0603 	EXP 	Created sequence: random, trialTypes=1, nReps=3, seed=None
+8.0604 	EXP 	New trial (rep=0, index=0): None
+8.0630 	EXP 	textbox: autoLog = True
+8.0630 	EXP 	textbox_2: autoLog = True
+8.0630 	EXP 	textbox_3: autoLog = True
+8.0630 	EXP 	text: autoDraw = True
+11.0730 	EXP 	text: autoDraw = False
+13.0725 	EXP 	text_2: autoDraw = True
+16.0879 	EXP 	text_2: autoDraw = False
+16.1945 	DATA 	Keypress: space
+16.2044 	EXP 	text: autoDraw = False
+16.2044 	EXP 	text_2: autoDraw = False
+16.2044 	EXP 	text_3: autoDraw = False
+16.2044 	EXP 	text_4: autoDraw = True
+19.2034 	EXP 	text_4: autoDraw = False
+19.2034 	EXP 	textbox: autoDraw = True
+20.0568 	DATA 	Keypress: t
+20.5218 	DATA 	Keypress: h
+20.8400 	DATA 	Keypress: e
+20.9732 	DATA 	Keypress: space
+22.0236 	DATA 	Keypress: m
+22.2903 	DATA 	Keypress: o
+22.4725 	DATA 	Keypress: u
+22.5893 	DATA 	Keypress: s
+22.8227 	DATA 	Keypress: e
+22.9227 	DATA 	Keypress: space
+23.6376 	DATA 	Keypress: s
+23.8391 	DATA 	Keypress: a
+24.0728 	DATA 	Keypress: w
+24.1883 	DATA 	Keypress: space
+25.2392 	DATA 	Keypress: o
+25.4370 	DATA 	Keypress: n
+25.5888 	DATA 	Keypress: space
+25.8382 	DATA 	Keypress: c
+25.9536 	DATA 	Keypress: o
+26.1207 	DATA 	Keypress: m
+26.3553 	DATA 	Keypress: p
+26.5718 	DATA 	Keypress: u
+26.8380 	DATA 	Keypress: t
+26.9541 	DATA 	Keypress: e
+27.1218 	DATA 	Keypress: r
+29.2001 	EXP 	text_5: autoDraw = True
+29.2167 	EXP 	textbox: autoDraw = False
+32.1992 	EXP 	text_5: autoDraw = False
+32.1992 	EXP 	textbox_2: autoDraw = True
+35.6701 	DATA 	Keypress: b
+35.8183 	DATA 	Keypress: a
+35.9680 	DATA 	Keypress: n
+36.2010 	DATA 	Keypress: k
+36.3686 	DATA 	Keypress: space
+37.9678 	DATA 	Keypress: w
+38.1843 	DATA 	Keypress: a
+38.3681 	DATA 	Keypress: s
+38.5173 	DATA 	Keypress: space
+39.5496 	DATA 	Keypress: c
+39.6695 	DATA 	Keypress: l
+39.8673 	DATA 	Keypress: o
+39.9507 	DATA 	Keypress: s
+40.1670 	DATA 	Keypress: e
+40.3496 	DATA 	Keypress: d
+42.1957 	EXP 	text_6: autoDraw = True
+42.2123 	EXP 	textbox_2: autoDraw = False
+45.1946 	EXP 	textbox_3: autoDraw = True
+45.2115 	EXP 	text_6: autoDraw = False
+47.5481 	DATA 	Keypress: r
+47.9644 	DATA 	Keypress: backspace
+48.1479 	DATA 	Keypress: t
+48.3146 	DATA 	Keypress: h
+48.6642 	DATA 	Keypress: w
+48.7805 	DATA 	Keypress: space
+49.5303 	DATA 	Keypress: backspace
+49.6803 	DATA 	Keypress: backspace
+49.8306 	DATA 	Keypress: e
+49.9798 	DATA 	Keypress: space
+50.3802 	DATA 	Keypress: p
+50.5314 	DATA 	Keypress: l
+50.7116 	DATA 	Keypress: a
+50.8634 	DATA 	Keypress: n
+51.0297 	DATA 	Keypress: e
+51.1450 	DATA 	Keypress: space
+51.4296 	DATA 	Keypress: f
+51.5624 	DATA 	Keypress: l
+51.7458 	DATA 	Keypress: e
+51.9457 	DATA 	Keypress: w
+52.0949 	DATA 	Keypress: space
+52.5128 	DATA 	Keypress: o
+52.8294 	DATA 	Keypress: v
+52.9459 	DATA 	Keypress: e
+53.1455 	DATA 	Keypress: r
+53.2130 	DATA 	Keypress: space
+53.4452 	DATA 	Keypress: t
+53.6132 	DATA 	Keypress: h
+53.7457 	DATA 	Keypress: e
+53.8790 	DATA 	Keypress: space
+54.1465 	DATA 	Keypress: b
+54.2449 	DATA 	Keypress: a
+54.4449 	DATA 	Keypress: n
+54.6118 	DATA 	Keypress: k
+55.1921 	EXP 	New trial (rep=1, index=0): None
+55.2080 	EXP 	text_4: autoDraw = False
+55.2080 	EXP 	textbox: autoDraw = False
+55.2080 	EXP 	text_5: autoDraw = False
+55.2080 	EXP 	textbox_2: autoDraw = False
+55.2080 	EXP 	text_6: autoDraw = False
+55.2080 	EXP 	textbox_3: autoDraw = False
+55.2080 	EXP 	text: autoDraw = True
+58.2069 	EXP 	text: autoDraw = False
+60.1897 	EXP 	text_2: autoDraw = True
+63.2054 	EXP 	text_2: autoDraw = False
+65.2047 	EXP 	text_3: autoDraw = True
+68.2203 	EXP 	text_3: autoDraw = False
+70.2030 	EXP 	text: autoDraw = False
+70.2030 	EXP 	text_2: autoDraw = False
+70.2030 	EXP 	text_3: autoDraw = False
+70.2030 	EXP 	text_4: autoDraw = True
+73.0213 	DATA 	Keypress: capslock
+73.2052 	EXP 	text_4: autoDraw = False
+73.2052 	EXP 	textbox: autoDraw = True
+73.3750 	DATA 	Keypress: capslock
+74.6076 	DATA 	Keypress: t
+75.1759 	DATA 	Keypress: capslock
+75.3916 	DATA 	Keypress: h
+75.6748 	DATA 	Keypress: e
+75.9730 	DATA 	Keypress: space
+76.2245 	DATA 	Keypress: c
+76.3575 	DATA 	Keypress: a
+76.6907 	DATA 	Keypress: t
+77.3578 	DATA 	Keypress: space
+77.8406 	DATA 	Keypress: s
+78.0400 	DATA 	Keypress: a
+78.2403 	DATA 	Keypress: w
+78.3404 	DATA 	Keypress: space
+78.6066 	DATA 	Keypress: t
+78.7737 	DATA 	Keypress: h
+78.9059 	DATA 	Keypress: e
+79.0073 	DATA 	Keypress: space
+79.2841 	DATA 	Keypress: m
+79.4198 	DATA 	Keypress: o
+79.6204 	DATA 	Keypress: i
+80.2208 	DATA 	Keypress: backspace
+80.5353 	DATA 	Keypress: u
+80.6365 	DATA 	Keypress: s
+80.9025 	DATA 	Keypress: e
+81.0523 	DATA 	Keypress: space
+81.6342 	DATA 	Keypress: i
+81.8349 	DATA 	Keypress: n
+81.9679 	DATA 	Keypress: space
+82.1367 	DATA 	Keypress: c
+82.3032 	DATA 	Keypress: o
+82.7019 	DATA 	Keypress: r
+82.8515 	DATA 	Keypress: n
+82.9689 	DATA 	Keypress: e
+83.1984 	EXP 	text_5: autoDraw = True
+83.2005 	DATA 	Keypress: r
+83.2151 	EXP 	textbox: autoDraw = False
+86.0325 	DATA 	Keypress: capslock
+86.2642 	EXP 	text_5: autoDraw = False
+86.2642 	EXP 	textbox_2: autoDraw = True
+86.7213 	DATA 	Keypress: t
+87.1363 	DATA 	Keypress: capslock
+87.4034 	DATA 	Keypress: h
+87.6702 	DATA 	Keypress: e
+87.7520 	DATA 	Keypress: space
+87.9540 	DATA 	Keypress: b
+88.0531 	DATA 	Keypress: a
+88.2708 	DATA 	Keypress: m
+88.2859 	DATA 	Keypress: n
+88.6361 	DATA 	Keypress: k
+88.8035 	DATA 	Keypress: space
+89.4706 	DATA 	Keypress: backspace
+89.6194 	DATA 	Keypress: backspace
+89.7696 	DATA 	Keypress: backspace
+90.5364 	DATA 	Keypress: backspace
+91.0193 	DATA 	Keypress: k
+92.0655 	DATA 	Keypress: backspace
+92.5482 	DATA 	Keypress: n
+92.7313 	DATA 	Keypress: k
+92.8987 	DATA 	Keypress: space
+93.0320 	DATA 	Keypress: w
+93.2482 	DATA 	Keypress: a
+93.4477 	DATA 	Keypress: s
+93.5173 	DATA 	Keypress: space
+93.7654 	DATA 	Keypress: c
+93.8810 	DATA 	Keypress: l
+94.0818 	DATA 	Keypress: o
+94.1506 	DATA 	Keypress: s
+94.3988 	DATA 	Keypress: e
+94.5489 	DATA 	Keypress: d
+95.1483 	DATA 	Keypress: space
+95.9311 	DATA 	Keypress: d
+96.0972 	DATA 	Keypress: u
+96.1941 	EXP 	text_6: autoDraw = True
+96.2480 	DATA 	Keypress: e
+96.2774 	EXP 	textbox_2: autoDraw = False
+96.3964 	DATA 	Keypress: space
+99.1930 	EXP 	textbox_3: autoDraw = True
+99.2097 	EXP 	text_6: autoDraw = False
+100.0978 	DATA 	Keypress: t
+100.2786 	DATA 	Keypress: h
+100.4452 	DATA 	Keypress: e
+100.5462 	DATA 	Keypress: space
+100.8280 	DATA 	Keypress: p
+101.0300 	DATA 	Keypress: l
+101.1634 	DATA 	Keypress: a
+101.3279 	DATA 	Keypress: n
+101.4622 	DATA 	Keypress: e
+101.5789 	DATA 	Keypress: space
+101.7795 	DATA 	Keypress: f
+101.9793 	DATA 	Keypress: l
+102.2114 	DATA 	Keypress: r
+102.6113 	DATA 	Keypress: backspace
+102.7443 	DATA 	Keypress: e
+102.9276 	DATA 	Keypress: w
+103.0618 	DATA 	Keypress: space
+103.6109 	DATA 	Keypress: o
+103.9106 	DATA 	Keypress: v
+104.3946 	DATA 	Keypress: e
+104.8274 	DATA 	Keypress: r
+105.0942 	DATA 	Keypress: space
+105.6447 	DATA 	Keypress: t
+105.8279 	DATA 	Keypress: h
+105.9602 	DATA 	Keypress: e
+106.0933 	DATA 	Keypress: space
+106.4101 	DATA 	Keypress: b
+106.5280 	DATA 	Keypress: a
+106.7097 	DATA 	Keypress: n
+106.9261 	DATA 	Keypress: k
+109.1914 	EXP 	New trial (rep=2, index=0): None
+109.2063 	EXP 	textbox_3: autoDraw = False
+109.2063 	EXP 	text_4: autoDraw = False
+109.2063 	EXP 	textbox: autoDraw = False
+109.2063 	EXP 	text_5: autoDraw = False
+109.2063 	EXP 	textbox_2: autoDraw = False
+109.2063 	EXP 	text_6: autoDraw = False
+109.2063 	EXP 	textbox_3: autoDraw = False
+109.2063 	EXP 	text: autoDraw = True
+112.2053 	EXP 	text: autoDraw = False
+114.2047 	EXP 	text_2: autoDraw = True
+117.2036 	EXP 	text_2: autoDraw = False
+119.2031 	EXP 	text_3: autoDraw = True
+122.2187 	EXP 	text_3: autoDraw = False
+124.2012 	EXP 	text: autoDraw = False
+124.2012 	EXP 	text_2: autoDraw = False
+124.2012 	EXP 	text_3: autoDraw = False
+124.2012 	EXP 	text_4: autoDraw = True
+127.2001 	EXP 	textbox: autoDraw = True
+127.2167 	EXP 	text_4: autoDraw = False
+127.7206 	DATA 	Keypress: t
+127.9201 	DATA 	Keypress: h
+128.1211 	DATA 	Keypress: e
+128.2527 	DATA 	Keypress: space
+128.4690 	DATA 	Keypress: c
+128.5692 	DATA 	Keypress: a
+128.7368 	DATA 	Keypress: t
+128.9522 	DATA 	Keypress: space
+129.0856 	DATA 	Keypress: s
+129.3030 	DATA 	Keypress: a
+129.6195 	DATA 	Keypress: w
+129.8183 	DATA 	Keypress: space
+130.2189 	DATA 	Keypress: t
+130.3864 	DATA 	Keypress: h
+130.5348 	DATA 	Keypress: e
+130.6347 	DATA 	Keypress: space
+130.8528 	DATA 	Keypress: m
+131.0524 	DATA 	Keypress: o
+131.2516 	DATA 	Keypress: u
+131.3520 	DATA 	Keypress: s
+131.6021 	DATA 	Keypress: e
+131.7010 	DATA 	Keypress: space
+132.0846 	DATA 	Keypress: i
+132.2695 	DATA 	Keypress: n
+132.4193 	DATA 	Keypress: space
+132.6345 	DATA 	Keypress: t
+132.7677 	DATA 	Keypress: h
+132.8680 	DATA 	Keypress: e
+133.0011 	DATA 	Keypress: space
+133.2177 	DATA 	Keypress: c
+133.3333 	DATA 	Keypress: o
+133.5005 	DATA 	Keypress: r
+133.6507 	DATA 	Keypress: n
+133.7676 	DATA 	Keypress: w
+134.0174 	DATA 	Keypress: r
+135.7344 	DATA 	Keypress: backspace
+135.8674 	DATA 	Keypress: backspace
+136.2175 	DATA 	Keypress: backspace
+136.9159 	DATA 	Keypress: n
+137.0496 	DATA 	Keypress: e
+137.1967 	EXP 	text_5: autoDraw = True
+137.2133 	EXP 	textbox: autoDraw = False
+137.2321 	DATA 	Keypress: r
+140.1960 	EXP 	text_5: autoDraw = False
+140.1960 	EXP 	textbox_2: autoDraw = True
+140.7818 	DATA 	Keypress: t
+140.8820 	DATA 	Keypress: h
+141.0815 	DATA 	Keypress: e
+141.2000 	DATA 	Keypress: space
+141.4144 	DATA 	Keypress: b
+141.4982 	DATA 	Keypress: a
+141.7645 	DATA 	Keypress: n
+141.9827 	DATA 	Keypress: k
+142.1808 	DATA 	Keypress: space
+142.3310 	DATA 	Keypress: w
+142.5145 	DATA 	Keypress: a
+142.6822 	DATA 	Keypress: s
+142.7980 	DATA 	Keypress: space
+143.0309 	DATA 	Keypress: c
+143.1825 	DATA 	Keypress: l
+143.3656 	DATA 	Keypress: o
+143.4142 	DATA 	Keypress: s
+143.6980 	DATA 	Keypress: e
+143.9313 	DATA 	Keypress: d
+144.0989 	DATA 	Keypress: space
+144.5648 	DATA 	Keypress: d
+144.7306 	DATA 	Keypress: u
+144.8468 	DATA 	Keypress: e
+145.0136 	DATA 	Keypress: space
+145.2474 	DATA 	Keypress: t
+145.3800 	DATA 	Keypress: o
+145.5796 	DATA 	Keypress: space
+145.8144 	DATA 	Keypress: r
+146.0134 	DATA 	Keypress: e
+146.1464 	DATA 	Keypress: n
+146.3632 	DATA 	Keypress: o
+146.5797 	DATA 	Keypress: v
+146.6957 	DATA 	Keypress: a
+146.8975 	DATA 	Keypress: t
+147.1471 	DATA 	Keypress: i
+147.3145 	DATA 	Keypress: o
+147.4964 	DATA 	Keypress: n
+150.1925 	EXP 	text_6: autoDraw = True
+150.2091 	EXP 	textbox_2: autoDraw = False
+153.1914 	EXP 	textbox_3: autoDraw = True
+153.2079 	EXP 	text_6: autoDraw = False
+153.6134 	DATA 	Keypress: t
+153.6949 	DATA 	Keypress: h
+154.1619 	DATA 	Keypress: e
+154.2623 	DATA 	Keypress: space
+154.5440 	DATA 	Keypress: p
+154.7113 	DATA 	Keypress: l
+154.8270 	DATA 	Keypress: a
+155.0110 	DATA 	Keypress: n
+155.1433 	DATA 	Keypress: e
+155.3100 	DATA 	Keypress: space
+156.2615 	DATA 	Keypress: f
+156.3611 	DATA 	Keypress: l
+156.8608 	DATA 	Keypress: e
+157.0279 	DATA 	Keypress: w
+157.1764 	DATA 	Keypress: space
+157.8426 	DATA 	Keypress: o
+158.1604 	DATA 	Keypress: v
+158.3267 	DATA 	Keypress: e
+158.5435 	DATA 	Keypress: r
+158.5944 	DATA 	Keypress: space
+159.0774 	DATA 	Keypress: t
+159.2770 	DATA 	Keypress: g
+159.4254 	DATA 	Keypress: e
+159.5593 	DATA 	Keypress: space
+160.3247 	DATA 	Keypress: b
+160.4251 	DATA 	Keypress: a
+160.5588 	DATA 	Keypress: n
+160.7582 	DATA 	Keypress: k
+163.2046 	EXP 	textbox_3: autoDraw = False
+163.2046 	EXP 	text_4: autoDraw = False
+163.2046 	EXP 	textbox: autoDraw = False
+163.2046 	EXP 	text_5: autoDraw = False
+163.2046 	EXP 	textbox_2: autoDraw = False
+163.2046 	EXP 	text_6: autoDraw = False
+163.2046 	EXP 	textbox_3: autoDraw = False
+163.2967 	EXP 	window1: mouseVisible = True
